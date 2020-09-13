@@ -3,7 +3,7 @@
 > Offensive Cyber Security Consultant   
 > 8 years   
 > anand.namana(at)gmail(dot)com, +91(Nine)8(Four)95(Three)76(Zero)8   
-> Linkedin - (https://www.linkedin.com/in/anandnamana/)	
+> [Linkedin](https://www.linkedin.com/in/anandnamana/)	
 ---------------------
 
 ### Experience
