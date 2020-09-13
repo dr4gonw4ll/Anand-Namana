@@ -5,7 +5,7 @@
 > anand.namana(at)gmail(dot)com, +91(Nine)8(Four)95(Three)76(Zero)8
 ---------------------
 
-#### Experience
+### Experience
 ***SEPT 2014 – Till Date***   
 ***Senior cyber security consultant, Deloitte & Touche***   
 * Vulnerability assessment and penetration testing (VAPT) in the areas of Banking, Finance, Healthcare, E-Commerce industries   
@@ -21,7 +21,7 @@
 * Performed vulnerability assessment and penetration testing
 * Conducted security audits to identify vulnerabilities
 ------------------------
-#### Accomplishments
+### Accomplishments
 * Offensive Security Certified Professional OSCP (OS-19094)
 * Finalists of Global Cyberlympics held at Washington DC - www.cyberlympics.org 
 * Rewarded for uncovering critical vulnerability in asana.com (bug bounty)
@@ -33,3 +33,18 @@
   * > Frida-Talkmore:  This tool is used to generate Frida (js) script for a specific functionality or code with in Android application. Much useful while  assessing the crypto     intensive apps or applications performing offline processing. https://github.com/dr4gonw4ll/Frida-Talkmore 
   * > Fix-Client: Financial Information Exchange (FIX), A script to connect to FIX engine and send messages interactively. Existing FIX clients does not allow to send malicious payloads to FIX engine as the client performs type checking. This script uses SimpleFIX python library and has its own session management code written from scratch. https://github.com/dr4gonw4ll/fix-client 
   * > Burp-Extension – Tight integration of penetration test objectives. Useful for generation of pentest audit results. https://github.com/dr4gonw4ll/BurpExtension
+
+### Education   
+***2007 - 2011***   
+***Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA***
+--------------
+### Skills
+* Strong understanding of software and its underlying technology
+* Web application vulnerability assessment and penetration testing
+* Mobile application vulnerability assessment and penetration testing (iOS & Android)
+* Network penetration testing
+* Desktop applications and reverse engineering of x86 and ARM based applications
+* Cryptography and real world PKCS implementations
+* Azure cloud
+* Python, Java, JavaScript and bash shell scripting
+* Fundamental understanding of Blockchain, IOT and Machine learning
