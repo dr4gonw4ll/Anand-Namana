@@ -6,7 +6,6 @@
 ---------------------
 
 #### Experience
-
 ***SEPT 2014 – Till Date***   
 ***Senior cyber security consultant, Deloitte & Touche***   
 * Vulnerability assessment and penetration testing (VAPT) in the areas of Banking, Finance, Healthcare, E-Commerce industries   
@@ -30,3 +29,7 @@
 * Integrity check bypass vulnerability identified in pre-boot authentication software
 * Identified many vulnerabilities in third party products deployed at major banking client
 * My approach and understanding of tech world can be found here – https://techie-anand.blogspot.com  
+* Tools/Script I created for the assessment of apps:
+  * > Frida-Talkmore:  This tool is used to generate Frida (js) script for a specific functionality or code with in Android application. Much useful while  assessing the crypto     intensive apps or applications performing offline processing. https://github.com/dr4gonw4ll/Frida-Talkmore 
+  * > Fix-Client: Financial Information Exchange (FIX), A script to connect to FIX engine and send messages interactively. Existing FIX clients does not allow to send malicious payloads to FIX engine as the client performs type checking. This script uses SimpleFIX python library and has its own session management code written from scratch. https://github.com/dr4gonw4ll/fix-client 
+  * > Burp-Extension – Tight integration of penetration test objectives. Useful for generation of pentest audit results. https://github.com/dr4gonw4ll/BurpExtension
