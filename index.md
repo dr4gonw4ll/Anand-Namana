@@ -34,10 +34,12 @@
   * > Fix-Client: Financial Information Exchange (FIX), A script to connect to FIX engine and send messages interactively. Existing FIX clients does not allow to send malicious payloads to FIX engine as the client performs type checking. This script uses SimpleFIX python library and has its own session management code written from scratch. https://github.com/dr4gonw4ll/fix-client 
   * > Burp-Extension – Tight integration of penetration test objectives. Useful for generation of pentest audit results. https://github.com/dr4gonw4ll/BurpExtension
 
+----------------------------------------
 ### Education   
 ***2007 - 2011***   
-***Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA***
---------------
+***Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA***   
+
+---------------------------------------------
 ### Skills
 * Strong understanding of software and its underlying technology
 * Web application vulnerability assessment and penetration testing
@@ -48,3 +50,8 @@
 * Azure cloud
 * Python, Java, JavaScript and bash shell scripting
 * Fundamental understanding of Blockchain, IOT and Machine learning
+
+---------------------------------------------------------
+
+### Tools 
+```Burp Suite and plugins, Sqlmap, WebInspect, Wireshark, Putty, Tunneling, SSL/TLS, Android, iOS, ADB, Frida, passionfruit, Objection, dex2jar, apktool, Rooted, Jailbroken, iFunbox, Notepad++, Cryptography, encoding/decoding, decompilers(ilspy, jdgui), dissembler(Hopper, Cutter, dnspy, IDA), pestudio, procmon, WMI, powershell, HTTP/HTTPs, SOAP, REST, XML, JSON, Nmap, Nessus, Kali Linux, exploit, metasploit, netcat, python, bash, x86, ARM, web sockets, Sqlitedb, Directory services, Kerberos, CodeQL, Oauth2, SAML, Instrumentation ```
