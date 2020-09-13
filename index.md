@@ -1,7 +1,7 @@
 Anand Namana
 ============
 > Offensive Cyber Security Consultant   
-> 8 years   
+> 8 years, Hyderabad     
 [Linkedin](https://www.linkedin.com/in/anandnamana/) ![alt text](https://www.linkedin.com/favicon.ico "Linkedin") || [Twitter](https://twitter.com/anandnamana) ![alt text](https://www.twitter.com/favicon.ico "Twitter") || [Github](https://github.com/dr4gonw4ll) ![alt text](https://www.github.com/favicon.ico "Github")
 
 ---------------------
