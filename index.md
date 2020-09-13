@@ -21,7 +21,9 @@
 ***Security test engineer, zen quality assurance***
 * Performed vulnerability assessment and penetration testing
 * Conducted security audits to identify vulnerabilities
+
 ------------------------
+
 ### Accomplishments
 * Offensive Security Certified Professional OSCP (OS-19094)
 * Finalists of Global Cyberlympics held at Washington DC - www.cyberlympics.org 
