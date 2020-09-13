@@ -1,15 +1,22 @@
 Anand Namana 
 ============
 > Offensive Cyber Security Consultant   
-> 8 years
+> 8 years   
+> anand.namana(at)gmail(dot)com, +91(Nine)8(Four)95(Three)76(Zero)8
+---------------------
 
-You can use the [editor on GitHub](https://github.com/dr4gonw4ll/Anand-Namana/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SEPT 2014 – Till Date
+Senior cyber security consultant, Deloitte & Touche
+Vulnerability assessment and penetration testing (VAPT) in the areas of Banking, Finance, Healthcare, E-Commerce industries
+Conducted security audits to identify vulnerabilities. Researched complex technical issues and provided resolutions
+Performed risk assessment (GAP analysis) to identify appropriate security countermeasures
+Assessed and defined generic baseline security configuration for Azure platform as a service (PaaS) for clients
+Carried out targeted phishing attacks, ran social engineering and vishing campaigns
+Configuration/baseline review of the critical infrastructure builds
+Train entry level candidates in the field of offensive security
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
