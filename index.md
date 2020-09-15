@@ -1,6 +1,6 @@
 Anand Namana
 ============
-> Offensive Cyber Security Consultant   
+> Offensive Cyber Security Consultant, (OSCP)   
 > 8 years, Hyderabad     
 [Linkedin](https://www.linkedin.com/in/anandnamana/) ![alt text](https://www.linkedin.com/favicon.ico "Linkedin") || [Twitter](https://twitter.com/anandnamana) ![alt text](https://www.twitter.com/favicon.ico "Twitter") || [Github](https://github.com/dr4gonw4ll) ![alt text](https://www.github.com/favicon.ico "Github")
 
@@ -40,21 +40,22 @@ Anand Namana
 ----------------------------------------
 ### Education   
 ***2007 - 2011***   
-***Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA***   
+Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA 
 
 ---------------------------------------------
 ### Skills
-* Strong understanding of software and its underlying technology
+* Strong understanding of software and its underlying technology such as - x86 architecture, Windows/Linux Offensive Security, HTTP/HTTPs, LDAP, Native vs Managed code, Object oriented language, Web technologies,  
 * Web application vulnerability assessment and penetration testing
 * Mobile application vulnerability assessment and penetration testing (iOS & Android)
 * Network penetration testing
 * Desktop applications and reverse engineering of x86 and ARM based applications
 * Cryptography and real world PKCS implementations
 * Azure cloud
-* Python, Java, JavaScript and bash shell scripting
+* Python3, Java, JavaScript and bash shell scripting
 * Fundamental understanding of Blockchain, IOT and Machine learning
 
 ---------------------------------------------------------
 
 ### Tools 
+
 ```Burp Suite and plugins, Sqlmap, WebInspect, Wireshark, Putty, Tunneling, SSL/TLS, Android, iOS, ADB, Frida, passionfruit, Objection, dex2jar, apktool, Rooted, Jailbroken, iFunbox, Notepad++, Cryptography, encoding/decoding, decompilers(ilspy, jdgui), dissembler(Hopper, Cutter, dnspy, IDA), pestudio, procmon, WMI, powershell, HTTP/HTTPs, SOAP, REST, XML, JSON, Nmap, Nessus, Kali Linux, exploit, metasploit, netcat, python, bash, x86, ARM, web sockets, Sqlitedb, Directory services, Kerberos, CodeQL, Oauth2, SAML, Instrumentation ```
