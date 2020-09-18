@@ -44,9 +44,15 @@ Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA
 
 ---------------------------------------------
 ### Skills
-* Strong understanding of software and its underlying technology such as - x86 architecture, Windows/Linux Offensive Security, HTTP/HTTPs, LDAP, Native vs Managed code, Object oriented language, Web technologies,  
+* Strong understanding of software and its underlying technology such as - x86 architecture, Windows/Linux Offensive Security, HTTP/HTTPs, LDAP, Native vs Managed code, Object oriented language, Web technologies, assembly language
 * Web application vulnerability assessment and penetration testing
-* Mobile application vulnerability assessment and penetration testing (iOS & Android)
+ * Tested variety of applications ranging from third party (COTS) to custom application developed in house at major banking/financial client. 
+ * Applications based on different protocols such as http/https, SOAP, OFX, FIX and technologies such as Java (spring, struts) and .net
+ * Tools used - BurpSuite, Owasp ZAP, CORS, SOP, Web Services (REST, SOAP), Burp Extension Development, Automated scanning tools, JavaScript vulnerabilities, Oauth2, JWT, CSRF, OWASP, XSS, Missing Origin Validations and prototype pollution in JavaScript, CRLF injection, Sqli, Deserialization, JSON, XXE, SSL/TLS, Write custom scripts using python3
+* Mobile application vulnerability assessment and penetration testing (iOS & Android):
+ * Performed pentest of mobile applications based on Android/iOS platform. Application based on Cordova, blackberry access, Xamarin (.net)
+ * Mobile apps supporting MFA (FIDO), Time based OTP (TOTP), biometric authentication and crypto intensive apps were tested at financial organization 
+Java, ADB, ARM, apktool, dex2jar, instrumentation, frida, objection, nodejs, sqlite, root bypass, jailbreak bypass, passionfruit,  Cutter dissembler, plist viewer, Jailbreak, root and ssl pinning bypass through instrumentation and manipulation of function return values and identification of default 
 * Network penetration testing
 * Desktop applications and reverse engineering of x86 and ARM based applications
 * Cryptography and real world PKCS implementations
@@ -59,3 +65,5 @@ Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA
 ### Tools 
 
 ```Burp Suite and plugins, Sqlmap, WebInspect, Wireshark, Putty, Tunneling, SSL/TLS, Android, iOS, ADB, Frida, passionfruit, Objection, dex2jar, apktool, Rooted, Jailbroken, iFunbox, Notepad++, Cryptography, encoding/decoding, decompilers(ilspy, jdgui), dissembler(Hopper, Cutter, dnspy, IDA), pestudio, procmon, WMI, powershell, HTTP/HTTPs, SOAP, REST, XML, JSON, Nmap, Nessus, Kali Linux, exploit, metasploit, netcat, python, bash, x86, ARM, web sockets, Sqlitedb, Directory services, Kerberos, CodeQL, Oauth2, SAML, Instrumentation ```
+
+### My Reads
