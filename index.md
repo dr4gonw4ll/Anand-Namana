@@ -44,18 +44,30 @@ Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA
 
 ---------------------------------------------
 ### Skills
-* Strong understanding of software and its underlying technology such as - x86 architecture, Windows/Linux Offensive Security, HTTP/HTTPs, LDAP, Native vs Managed code, Object oriented language, Web technologies, assembly language
+* Strong understanding of software and its underlying technology such as - x86 architecture, Windows/Linux Offensive Security, HTTP/HTTPs, LDAP, Directories, Native vs Managed code, Object oriented language, Web technologies, assembly language, regular expressions
 * Web application vulnerability assessment and penetration testing
- * Tested variety of applications ranging from third party (COTS) to custom application developed in house at major banking/financial client. 
- * Applications based on different protocols such as http/https, SOAP, OFX, FIX and technologies such as Java (spring, struts) and .net
- * Tools used - BurpSuite, Owasp ZAP, CORS, SOP, Web Services (REST, SOAP), Burp Extension Development, Automated scanning tools, JavaScript vulnerabilities, Oauth2, JWT, CSRF, OWASP, XSS, Missing Origin Validations and prototype pollution in JavaScript, CRLF injection, Sqli, Deserialization, JSON, XXE, SSL/TLS, Write custom scripts using python3
+  * > Tested variety of applications ranging from third party (COTS) to custom application developed in house at major banking/financial client. 
+  * > Applications based on different protocols such as http/https, SOAP, OFX, FIX and technologies such as Java (spring, struts) and .net
+  * > Tools & vulnerabilities - BurpSuite, Owasp ZAP, CORS, SOP, Web Services (REST, SOAP), Burp Extension Development, Automated scanning tools, JavaScript vulnerabilities,
+ Oauth2, JWT, CSRF, OWASP, XSS, Missing Origin Validations and prototype pollution in JavaScript, CRLF injection, Sqli, Deserialization, JSON, XXE, SSL/TLS, Write custom scripts
+ using python3
 * Mobile application vulnerability assessment and penetration testing (iOS & Android):
- * Performed pentest of mobile applications based on Android/iOS platform. Application based on Cordova, blackberry access, Xamarin (.net)
- * Mobile apps supporting MFA (FIDO), Time based OTP (TOTP), biometric authentication and crypto intensive apps were tested at financial organization 
-Java, ADB, ARM, apktool, dex2jar, instrumentation, frida, objection, nodejs, sqlite, root bypass, jailbreak bypass, passionfruit,  Cutter dissembler, plist viewer, Jailbreak, root and ssl pinning bypass through instrumentation and manipulation of function return values and identification of default 
+  * > Performed pentest of mobile applications based on Android/iOS platform. Application based on Cordova, blackberry access, Xamarin (.net)
+  * > Mobile apps supporting MFA (FIDO), Time based OTP (TOTP), biometric authentication and crypto intensive apps were tested at financial organization
+  * > Root/jailbreak and ssl pinning bypass through instrumentation and manipulation of function return values, and identification of default sdk/libs classes to bypass the implementations 
+  * > Tools used- Java, ADB, ARM, apktool, dex2jar, instrumentation, frida, objection, nodejs, sqlite, root bypass, jailbreak bypass, passionfruit,  Cutter dissembler, plist viewer, Jailbreak, fridump, xcode, location spoofing, reverse engineering  
 * Network penetration testing
-* Desktop applications and reverse engineering of x86 and ARM based applications
+  * > Scan the network infrastructure with nmap and its supported scripts, Use Nessus scanner to perform the network scan. Write Bash scripts to automate the process or leverage python asynchronous modules to perform tasks where needed
+  * > Performed both blackbox and whitebox pentest (local privilege escalations and build review) of critical infrastructure such as directory server and kerberos.
+  * > Identify the services running of system, check for the code of available services (if any) and perform deeper assessment.
+* Desktop applications and reverse engineering of x86
+  * > Windows desktop applications, supporting major banking clients. Testing for weaker configuration, permissions and settings of the executables and dependencies (dll)
+  * > Java, .Net and Visual C++ based desktop applications. DLL Hijackings, unquoted service path checks, verification of local listening services, reverse engineering of the identified rick client applications
+  * > Tools used - IDA, Cutter dissembler, DNSpy, JD-GUI, Notepad++, Powershell, sysinternal tools, 
 * Cryptography and real world PKCS implementations
+  * > symmetric (AES, DES) and assymetric cryptography (RSA, DH) - understanding of the prime number modulus, exponent roles. Understanding of different public key cryptography standards such as PKCS#1, PKCS#5, PKCS#7, PKCS#8, PKCS#11 and PKCS#12 (p12 or pfx). CER, DER (PEM formats)  
+  * > stream (RC4) and block cipher (DES and AES) with  CBC, CTR
+  * > hashing (MD5, SHA1) and key derivation functions (PBKDF2 and HMAC) 
 * Azure cloud
 * Python3, Java, JavaScript and bash shell scripting
 * Fundamental understanding of Blockchain, IOT and Machine learning
@@ -64,6 +76,6 @@ Java, ADB, ARM, apktool, dex2jar, instrumentation, frida, objection, nodejs, sql
 
 ### Tools 
 
-```Burp Suite and plugins, Sqlmap, WebInspect, Wireshark, Putty, Tunneling, SSL/TLS, Android, iOS, ADB, Frida, passionfruit, Objection, dex2jar, apktool, Rooted, Jailbroken, iFunbox, Notepad++, Cryptography, encoding/decoding, decompilers(ilspy, jdgui), dissembler(Hopper, Cutter, dnspy, IDA), pestudio, procmon, WMI, powershell, HTTP/HTTPs, SOAP, REST, XML, JSON, Nmap, Nessus, Kali Linux, exploit, metasploit, netcat, python, bash, x86, ARM, web sockets, Sqlitedb, Directory services, Kerberos, CodeQL, Oauth2, SAML, Instrumentation ```
+```Burp Suite and plugins, Sqlmap, WebInspect, Wireshark, Putty, Tunneling, SSL/TLS, Android, iOS, ADB, Frida, passionfruit, Objection, dex2jar, apktool, Rooted, Jailbroken, iFunbox, Notepad++, Cryptography, encoding/decoding, decompilers(ilspy, jdgui), dissembler(Hopper, Cutter, dnspy, IDA), pestudio, procmon, WMI, powershell, HTTP/HTTPs, SOAP, REST, XML, JSON, Nmap, Nessus, Kali Linux, exploit, metasploit, netcat, python, bash, x86, ARM, web sockets, Sqlitedb, Directory services, Kerberos, CodeQL, Oauth2, SAML, Instrumentation, scapy ```
 
 ### My Reads
