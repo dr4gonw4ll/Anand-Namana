@@ -69,6 +69,7 @@ Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA
   * > stream (RC4) and block cipher (DES and AES) with  CBC, CTR
   * > hashing (MD5, SHA1) and key derivation functions (PBKDF2 and HMAC) 
 * Azure cloud
+  * >  Worked on defining secure configuration guidelines for Azure services 
 * Python3, Java, JavaScript and bash shell scripting
 * Fundamental understanding of Blockchain, IOT and Machine learning
 
