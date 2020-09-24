@@ -13,6 +13,7 @@ Anand Namana
 * Automation of tasks through custom scripts
 * Accomplish challenging tasks with self learning and research abilities
 * Innovate/apply new ways and solutions to achieve the objectives of organization
+
 ----------------------
 
 ### Experience
