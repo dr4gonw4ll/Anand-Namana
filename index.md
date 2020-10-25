@@ -1,6 +1,6 @@
 Anand Namana
 ============
-> Offensive Cyber Security Consultant, (OSCP)  
+> Offensive Cyber Security Consultant, (OSCP, GXPN)  
 > 8 years, Hyderabad     
 [Linkedin](https://www.linkedin.com/in/anandnamana/) ![alt text](https://www.linkedin.com/favicon.ico "Linkedin") || [Twitter](https://twitter.com/anandnamana) ![alt text](https://www.twitter.com/favicon.ico "Twitter") || [Github](https://github.com/dr4gonw4ll) ![alt text](https://www.github.com/favicon.ico "Github") 
 
@@ -35,6 +35,7 @@ Anand Namana
 ------------------------
 ### Accomplishments
 * Offensive Security Certified Professional OSCP (OS-19094)
+* SANS 660 and certified GXPN professional
 * Finalists of Global Cyberlympics held at Washington DC - www.cyberlympics.org 
 * Rewarded for uncovering critical vulnerability in asana.com (bug bounty)
 * Rewarded for uncovering file inclusion vulnerability at cloudconvert.com as part of open source research
