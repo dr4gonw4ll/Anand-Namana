@@ -36,7 +36,10 @@ Anand Namana
 ### Accomplishments
 * Offensive Security Certified Professional OSCP (OS-19094)
 * SANS 660 and certified GXPN professional
-* Finalists of Global Cyberlympics held at Washington DC - www.cyberlympics.org 
+* Arbitrary file read in NPM libs 
+  * CVE-2020-7763 - https://snyk.io/vuln/SNYK-JS-PHANTOMHTMLTOPDF-1023598 
+  * CVE-2020-7762 - https://snyk.io/vuln/npm:jsreport-chrome-pdf
+* Finalists of Cyberlympics held at Washington DC - www.cyberlympics.org 
 * Rewarded for uncovering critical vulnerability in asana.com (bug bounty)
 * Rewarded for uncovering file inclusion vulnerability at cloudconvert.com as part of open source research
 * Integrity check bypass vulnerability identified in pre-boot authentication software
