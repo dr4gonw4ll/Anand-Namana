@@ -44,8 +44,8 @@ Anand Namana
 * Rewarded for uncovering file inclusion vulnerability at cloudconvert.com as part of open source research
 * Integrity check bypass vulnerability identified in pre-boot authentication software
 * Identified many vulnerabilities in third party products deployed at major banking client
-* My approach and understanding of tech world can be found here – https://techie-anand.blogspot.com  
-* Tools/Script I created for the assessment of apps:
+* My approach and understanding of tech world can be found here – https://anand-namana.medium.com/  
+* Tools/Script created for the assessment of apps:
   * > Frida-Talkmore:  This python3 script is used to generate Frida (js) script for a specific functionality or code with in Android application. It consumes .smali fies as input and dumps out the frida JavaScript handler script. The handler can be used to instrument the android application to dump out all the arguments of different functions to output console. Much useful while assessing the crypto intensive apps or applications performing offline processing. (https://github.com/dr4gonw4ll/Frida-Talkmore)
   * > Fix-Client: Financial Information Exchange (FIX), A script to connect to FIX engine and send messages interactively. Existing FIX clients does not allow to send malicious payloads to FIX engine as the client performs type checking. This script uses SimpleFIX python library and has its own session management code written from scratch. (https://github.com/dr4gonw4ll/fix-client) 
   * > Burp-Extension – Tight integration of penetration test objectives. Useful for generation of pentest audit results. (https://github.com/dr4gonw4ll/BurpExtension)
