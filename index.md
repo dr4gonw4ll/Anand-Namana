@@ -78,6 +78,9 @@ Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA
   * > Windows desktop applications, supporting major banking clients. Testing for weaker configuration, permissions and settings of the executables and dependencies (dll)
   * > Java, .Net and Visual C++ based desktop applications. DLL Hijackings, unquoted service path checks, verification of local listening services, reverse engineering of the identified rick client applications
   * > Tools used - IDA, Cutter dissembler, DNSpy, JD-GUI, Notepad++, Powershell, sysinternal tools
+*  Operating system:
+  * > CIS benchmarks and configuration review of the base operating system images
+  * > Privilege escalation checks in Linux as well as Windows operating systems 
 * Cryptography and PKCS implementations
   * > symmetric (AES, DES) and asymmetric cryptography (RSA, DH) - understanding of the prime number modulus, exponent roles. Understanding of different public key cryptography standards such as PKCS#1, PKCS#5, PKCS#7, PKCS#8, PKCS#11 and PKCS#12 (p12 or pfx). CER, DER (PEM formats)  
   * > stream (RC4) and block cipher (DES and AES) with  CBC, CTR
