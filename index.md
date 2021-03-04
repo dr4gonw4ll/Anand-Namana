@@ -6,10 +6,10 @@ Anand Namana
 
 ---------------------
 ***Befits***
-* Improve and support offensive security capabilities of the organization
+* Improve and support offensive security capabilities of the organization through MITRE ATT & CK lens   
 * Strategy to automate the application and infrastructure security of the organization
 * Vulnerability management of the organization
-* Perform security assessment of application, core and network infrastructure. Review code and identify vulnerabilities.
+* Perform security assessment of application, core and network infrastructure. Review code and identify vulnerabilities
 * Automation of tasks through custom scripts
 * Accomplish challenging tasks with self learning and research abilities
 * Innovate/apply new ways and solutions to achieve the objectives of organization
@@ -57,7 +57,7 @@ Bachelor of Technology (information technology), JNTU Hyderabad, 7.1 GPA
 
 ---------------------------------------------
 ### Skills
-* Strong understanding of software and its underlying technology such as - x86 architecture, Windows/Linux Offensive Security, HTTP/HTTPs, LDAP, Directories, Native vs Managed code, Object oriented language, Web technologies, assembly language, regular expressions
+* Strong understanding of software and its underlying technology such as - x86 architecture, Windows/Linux Offensive Security, HTTP/HTTPs, LDAP, Directories, Native vs Managed code, Object oriented language, Web technologies, assembly language, regular expressions and Red/purple teaming 
 * Web application vulnerability assessment and penetration testing
   * > Define vulnerability management strategy for an organization, Map organizations risk management objectives to community standards  
   * > Tested variety of applications ranging from third party (COTS) to custom application developed in house at major banking/financial client
