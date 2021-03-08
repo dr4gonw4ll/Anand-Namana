@@ -9,6 +9,7 @@ Anand Namana
 * Improve and support offensive security capabilities of the organization through MITRE ATT & CK lens   
 * Strategy to automate the application and infrastructure security of the organization
 * Vulnerability management of the organization
+* Manage and run the DAST and SAST capabitlies at the organization 
 * Perform security assessment of application, core and network infrastructure. Review code and identify vulnerabilities
 * Automation of tasks through custom scripts
 * Accomplish challenging tasks with self learning and research abilities
