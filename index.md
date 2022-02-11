@@ -24,7 +24,7 @@ Anand Namana
 * Performing the Purple teaming assessments and working together with Blue team to enhance the detection controls based on ATT&CK framework
 * Vulnerability assessment of applications and enhancement/automation of the tasks and processes
 
-***SEPT 2014 – July 2021 Date***   
+***SEPT 2014 – July 2021***   
 ***Senior cyber security consultant, Deloitte & Touche***   
 * Vulnerability assessment and penetration testing (VAPT) in the areas of Banking, Finance, Healthcare, E-Commerce industries   
 * Conducted security audits to identify vulnerabilities. Researched complex technical issues and provided resolutions   
