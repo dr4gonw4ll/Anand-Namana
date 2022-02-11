@@ -1,7 +1,7 @@
 Anand Namana
 ============
 > Offensive Cyber Security Consultant, (OSCP, SANS GXPN)  
-> 9 years, Hyderabad (anand.namana@gmail.com, +919849537608)    
+> 10 years, Hyderabad (anand.namana@gmail.com)     
 [Linkedin](https://www.linkedin.com/in/anandnamana/) ![alt text](https://www.linkedin.com/favicon.ico "Linkedin") || [Twitter](https://twitter.com/anandnamana) ![alt text](https://www.twitter.com/favicon.ico "Twitter") || [Github](https://github.com/dr4gonw4ll) ![alt text](https://www.github.com/favicon.ico "Github") 
 
 ---------------------
@@ -18,7 +18,13 @@ Anand Namana
 ----------------------
 
 ### Experience
-***SEPT 2014 – Till Date***   
+**_July 2021 - Till Date_**  
+**_Offensive Cyber Security, PayPal_**
+* Performing Red teaming assessments to challenge the current security controls and Blue team detection timelines
+* Performing the Purple teaming assessments and working together with Blue team to enhance the detection controls based on ATT&CK framework
+* Vulnerability assessment of applications and enhancement/automation of the tasks and processes
+
+***SEPT 2014 – July 2021 Date***   
 ***Senior cyber security consultant, Deloitte & Touche***   
 * Vulnerability assessment and penetration testing (VAPT) in the areas of Banking, Finance, Healthcare, E-Commerce industries   
 * Conducted security audits to identify vulnerabilities. Researched complex technical issues and provided resolutions   
